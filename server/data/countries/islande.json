@@ -1,0 +1,23 @@
+{
+  "id": "islande",
+  "nom": "Islande",
+  "capitale": "Reykjavik",
+  "continent": "Europe",
+  "population": "0,39 million",
+  "superficieKm2": 103000,
+  "langue": "Islandais",
+  "monnaie": "Couronne islandaise (ISK)",
+  "drapeau": "🇮🇸",
+  "resume": "Île volcanique de l'Atlantique Nord surnommée la terre de feu et de glace, célèbre pour ses geysers, ses glaciers, ses sources chaudes géothermiques, ses cascades et ses aurores boréales.",
+  "pointsCles": [
+    "Énergie quasi 100 % renouvelable (géothermie et hydroélectricité)",
+    "Capitale la plus septentrionale d'un État souverain",
+    "Paysages spectaculaires : volcans, plages de sable noir et lagons bleus"
+  ],
+  "specialites": [
+    "Skyr",
+    "Agneau islandais",
+    "Poisson séché (harðfiskur)",
+    "Pain de seigle cuit par géothermie (rúgbrauð)"
+  ]
+}

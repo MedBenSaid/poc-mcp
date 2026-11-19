@@ -1,0 +1,23 @@
+{
+  "id": "canada",
+  "nom": "Canada",
+  "capitale": "Ottawa",
+  "continent": "Amérique du Nord",
+  "population": "40,5 millions",
+  "superficieKm2": 9984670,
+  "langue": "Anglais, Français",
+  "monnaie": "Dollar canadien (CAD)",
+  "drapeau": "🇨🇦",
+  "resume": "Deuxième plus grand pays du monde, réputé pour ses grands espaces sauvages, les montagnes Rocheuses, les chutes du Niagara, ses forêts d'érables et ses villes cosmopolites comme Montréal, Toronto et Vancouver.",
+  "pointsCles": [
+    "Plus long littoral maritime du monde et millions de lacs",
+    "Pays officiellement bilingue (anglais et français)",
+    "Symbole national : la feuille d'érable"
+  ],
+  "specialites": [
+    "Sirop d'érable",
+    "Poutine",
+    "Saumon fumé",
+    "Tourtière"
+  ]
+}

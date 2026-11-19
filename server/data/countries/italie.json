@@ -1,0 +1,23 @@
+{
+  "id": "italie",
+  "nom": "Italie",
+  "capitale": "Rome",
+  "continent": "Europe",
+  "population": "58,9 millions",
+  "superficieKm2": 301340,
+  "langue": "Italien",
+  "monnaie": "Euro (EUR)",
+  "drapeau": "🇮🇹",
+  "resume": "Péninsule méditerranéenne en forme de botte, berceau de l'Empire romain et de la Renaissance, célèbre pour le Colisée, Venise, la Toscane, le design et l'une des cuisines les plus appréciées au monde.",
+  "pointsCles": [
+    "Plus grand nombre de sites classés au patrimoine mondial de l'UNESCO",
+    "Villes emblématiques : Rome, Venise, Florence, Milan, Naples",
+    "Référence mondiale en art, architecture, mode et gastronomie"
+  ],
+  "specialites": [
+    "Pizza napolitaine",
+    "Pâtes fraîches",
+    "Risotto",
+    "Tiramisu & gelato"
+  ]
+}

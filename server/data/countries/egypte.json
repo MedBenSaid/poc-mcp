@@ -1,0 +1,23 @@
+{
+  "id": "egypte",
+  "nom": "Égypte",
+  "capitale": "Le Caire",
+  "continent": "Afrique",
+  "population": "112,7 millions",
+  "superficieKm2": 1002450,
+  "langue": "Arabe",
+  "monnaie": "Livre égyptienne (EGP)",
+  "drapeau": "🇪🇬",
+  "resume": "Pays transcontinental traversé par le Nil, berceau de la civilisation pharaonique, mondialement connu pour les pyramides de Gizeh, le Sphinx, les temples de Louxor et la mer Rouge.",
+  "pointsCles": [
+    "Les pyramides de Gizeh, dernière des Sept Merveilles du monde antique",
+    "Le Nil, artère vitale traversant le pays du sud au nord",
+    "Spots de plongée renommés le long de la mer Rouge"
+  ],
+  "specialites": [
+    "Koshari",
+    "Ful medames",
+    "Taameya (falafel)",
+    "Baklava"
+  ]
+}

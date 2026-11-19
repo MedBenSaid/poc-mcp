@@ -1,0 +1,23 @@
+{
+  "id": "japon",
+  "nom": "Japon",
+  "capitale": "Tokyo",
+  "continent": "Asie",
+  "population": "124,5 millions",
+  "superficieKm2": 377975,
+  "langue": "Japonais",
+  "monnaie": "Yen (JPY)",
+  "drapeau": "🇯🇵",
+  "resume": "Archipel d'Asie de l'Est alliant traditions millénaires et haute technologie, renommé pour le Mont Fuji, les cerisiers en fleurs (sakura), les temples de Kyoto et ses trains à grande vitesse Shinkansen.",
+  "pointsCles": [
+    "Archipel composé de plus de 6 800 îles",
+    "Mélange unique de temples anciens et de métropoles futuristes",
+    "Leader mondial en robotique, automobile et culture manga/anime"
+  ],
+  "specialites": [
+    "Sushi & sashimi",
+    "Ramen",
+    "Tempura",
+    "Matcha"
+  ]
+}

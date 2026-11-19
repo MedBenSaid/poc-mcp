@@ -1,0 +1,23 @@
+{
+  "id": "bresil",
+  "nom": "Brésil",
+  "capitale": "Brasília",
+  "continent": "Amérique du Sud",
+  "population": "216,4 millions",
+  "superficieKm2": 8515767,
+  "langue": "Portugais",
+  "monnaie": "Réal brésilien (BRL)",
+  "drapeau": "🇧🇷",
+  "resume": "Plus grand pays d'Amérique du Sud, célèbre pour la forêt amazonienne, le carnaval de Rio de Janeiro, le Christ Rédempteur, la samba et sa passion pour le football.",
+  "pointsCles": [
+    "Abritant environ 60 % de la forêt amazonienne",
+    "Cinquième plus grand pays du monde par sa superficie",
+    "Culture musicale et festive mondialement reconnue (samba, bossa nova)"
+  ],
+  "specialites": [
+    "Feijoada",
+    "Pão de queijo",
+    "Churrasco",
+    "Açaí"
+  ]
+}

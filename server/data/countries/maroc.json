@@ -1,0 +1,23 @@
+{
+  "id": "maroc",
+  "nom": "Maroc",
+  "capitale": "Rabat",
+  "continent": "Afrique",
+  "population": "37,8 millions",
+  "superficieKm2": 446550,
+  "langue": "Arabe, Amazigh",
+  "monnaie": "Dirham marocain (MAD)",
+  "drapeau": "🇲🇦",
+  "resume": "Pays d'Afrique du Nord bordé par l'Atlantique et la Méditerranée, connu pour ses villes impériales (Marrakech, Fès), les montagnes de l'Atlas, les dunes du Sahara et son artisanat raffiné.",
+  "pointsCles": [
+    "Médinas historiques classées au patrimoine mondial de l'UNESCO",
+    "Paysages variés : plages, montagnes de l'Atlas et désert du Sahara",
+    "Hospitalité légendaire et architecture mauresque"
+  ],
+  "specialites": [
+    "Couscous",
+    "Tajine",
+    "Pastilla",
+    "Thé à la menthe"
+  ]
+}

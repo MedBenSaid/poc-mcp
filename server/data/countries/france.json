@@ -1,0 +1,23 @@
+{
+  "id": "france",
+  "nom": "France",
+  "capitale": "Paris",
+  "continent": "Europe",
+  "population": "68,4 millions",
+  "superficieKm2": 551695,
+  "langue": "Français",
+  "monnaie": "Euro (EUR)",
+  "drapeau": "🇫🇷",
+  "resume": "Pays d'Europe occidentale célèbre pour son patrimoine historique, sa gastronomie, la Tour Eiffel, ses vignobles et la diversité de ses paysages entre Alpes, Atlantique et Méditerranée.",
+  "pointsCles": [
+    "Première destination touristique mondiale",
+    "Patrimoine culturel majeur (Louvre, Versailles, Mont-Saint-Michel)",
+    "Membre fondateur de l'Union européenne"
+  ],
+  "specialites": [
+    "Croissant & baguette",
+    "Fromages AOP",
+    "Bœuf bourguignon",
+    "Ratatouille"
+  ]
+}
